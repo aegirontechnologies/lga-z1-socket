@@ -1,3 +1,6 @@
+![Open Hardware Project](https://img.shields.io/badge/Open-Hardware-blue)
+
+
 ## 🚨 Help Wanted – AEGIS Dev Kit + LGA-Z1 Socket
 
 We’re seeking collaborators to support our open hardware CPU and motherboard platform.
